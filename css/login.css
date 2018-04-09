@@ -66,6 +66,7 @@
     color: #b0b0b0;
     font-size: 0.26rem;
     border-bottom: 0.01rem solid #e0e0e0;
+    outline: none;
 }
 #submit{
     width: 6.02rem;
@@ -78,6 +79,7 @@
     color: #fff;
     font-size: 0.3rem;
     margin-top: 0.6rem;
+    outline: none;
 }
 .yanzhengma{
     margin-top: 0.28rem;
