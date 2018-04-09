@@ -1,0 +1,119 @@
+.t2_top_title{
+    margin-left: 2.8rem;
+    border: 0;
+}
+.t2_top_title1{
+    float: right;
+    border: 0;
+    margin-right: 0.2rem;
+    font-size: 0.3rem;
+}
+.t2_content{
+    margin-top: 1.28rem;
+    width: 100%;
+    height: auto;
+    min-height: 8rem;
+}
+.t2_content_title{
+    width: 100%;
+    height: 0.88rem;
+    border-bottom: 0.01rem solid #e5e5e5;
+}
+.t2_content_title1{
+    width: 1.875rem;
+    height: 0.87rem;
+    float: left;
+    padding-top: 0.22rem;
+}
+.t2_content_title11{
+    width: 100%;
+    height: 0.43rem;
+    border-right: 0.01rem solid #e5e5e5;
+    line-height: 0.44rem;
+    color: #b0b0b0;
+    text-align: center;
+    font-size: 0.28rem;
+}
+.moren_icon{
+    color: #b0b0b0;
+    line-height: 0.44rem;
+    font-size: 0.24rem;
+}
+.t2_content_title11.active{
+    color: #444;
+}
+.t2_content_menu{
+    width: 100%;
+    height: 0.9rem;
+    border-bottom: 0.01rem solid #e5e5e5;
+}
+.t2_content_menu1{
+    padding:0 0.2rem;
+    width: auto;
+    height: 0.6rem;
+    margin-left: 0.3rem;
+    border: 0.02rem solid #a0a0a0;
+    border-radius: 0.1rem;
+    margin-top: 0.15rem;
+    font-size: 0.24rem;
+    line-height: 0.6rem;
+    text-align: center;
+    float: left;
+    letter-spacing: 0.02rem;
+}
+.t2_content_main{
+    width: 100%;
+    height: auto;
+    min-height: 7rem;
+}
+.t2_content_main ul{
+    margin-top: 0.55rem;
+    padding-left: 0.35rem;
+    width: 7.5rem;
+    height: 5.71rem;
+}
+.t2_content_main ul li{
+    float: left;
+    width: 3.22rem;
+    height: 5.71rem;
+    margin-right: 0.35rem;
+}
+.t2_content_main ul li img{
+    width: 3.22rem;
+    height: 4.28rem;
+}
+.t2_content_main_word{
+    width: 100%;
+    height: .6rem;
+    line-height: 0.3rem;
+    font-size: 0.24rem;
+    color: #555;
+    margin-top: 0.3rem;
+}
+.t2_content_main_word1{
+    height: 0.52rem;
+    width: 100%;
+    line-height: 0.52rem;
+}
+.t2_content_main_word1 span{
+    color: #444;
+    font-weight: bold;
+}
+.t2_content_main_word1 .price_icon{
+    float: right;
+    font-size: 0.24rem;
+    margin-right: 0.2rem;
+    color: #b0b0b0;
+    font-weight: normal;
+}
+.more{
+    width: 2.5rem;
+    height: 0.7rem;
+    line-height: 0.7rem;
+    text-align: center;
+    border: 0.02rem solid #a0a0a0;
+    border-radius: 0.1rem;
+    margin: 0.3rem auto;
+    font-size: 0.28rem;
+    letter-spacing: 0.02rem;
+}

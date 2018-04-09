@@ -1,0 +1,129 @@
+.b_content{
+    background: #f0f0f0;
+    width: 100%;
+    height: auto;
+    min-height: 0;
+    margin-top: 1.28rem;
+}
+.b_content1{
+    height: 2.4rem;
+    width: 100%;
+    background: #fff;
+    margin-bottom: 0.2rem;
+}
+.b_circle{
+    float: left;
+    width: 0.4rem;
+    height: 0.4rem;
+    border-radius: 50%;
+    border: 0.01rem solid #e0e0e0;
+    margin: 1rem 0.3rem 1rem 0.3rem;
+    color: #fff;
+    line-height: 0.3rem;
+    text-align: center;
+    float: left;
+}
+.b_circle.active{
+    background: #333;
+}
+.b_c_img{
+    width: 1.51rem;
+    height: 1.99rem;
+    float: left;
+    margin-top: 0.21rem;
+}
+.b_c_img img{
+    width: 1.51rem;
+    height: 1.99rem;
+}
+.b_word{
+    margin-left: 0.3rem;
+    float: left;
+}
+.b_word1{
+    height: auto;
+    min-height: 0.31rem;
+    line-height:0.31rem;
+    width: auto;
+    max-width: 3.48rem;
+    color: #444;
+    margin-top: 0.2rem;
+    font-size: 0.26rem;
+    letter-spacing: 0.01rem;
+
+}
+.b_word2{
+    height: auto;
+    min-height: 0.4rem;
+    line-height: 0.4rem;
+    font-size: 0.2rem;
+    color: #b0b0b0;
+    letter-spacing: 0.01rem;
+    margin-top: 0.1rem;
+}
+.b_word3{
+    line-height: 0.36rem;
+    font-size: 0.2rem;
+    color: #d0031c;
+    margin-top: 0.1rem;
+}
+.num{
+    margin-right: 0.2rem;
+    float: right;
+    color: #b0b0b0;
+    margin-top: 0.2rem;
+}
+.b_cal{
+    width: 100%;
+    height: 1.18rem;
+    position: fixed;
+    left: 0;
+    bottom: 1rem;
+}
+.b_c1{
+    margin-top: 0.24rem;
+}
+.cal_price{
+    width: auto;
+    min-width: 2.54rem;
+    height: 0.88rem;
+    margin-right: 0.22rem;
+    float: right;
+    margin-top: 0.15rem;
+    line-height: 0.44rem;
+}
+.cal_price p{
+    font-size: 0.3rem;
+    color: #d0021b;
+    letter-spacing: 0.01rem;
+}
+.cal_price span{
+    float: right;
+    color: #b0b0b0;
+    font-size: 0.24rem;
+}
+.cal_btn{
+    width: 1.7rem;
+    height: 0.88rem;
+    margin-top: 0.15rem;
+    background:#d0021b ;
+    border-radius: 0.05rem;
+    float: right;
+    margin-right: 0.2rem;
+    line-height: 0.88rem;
+    text-align: center;
+    color: #fff;
+    font-size: 0.28rem;
+}
+.b_content2{
+    width: 100%;
+    height: 1rem;
+    margin-top: 0.22rem;
+    background: #fff;
+    border-bottom: 0.01rem solid #e5e5e5;
+    border-top: 0.01rem solid #e5e5e5;
+    line-height: 1rem;
+    padding-left: 0.3rem;
+    color: #444;
+    font-size: 0.26rem;
+}

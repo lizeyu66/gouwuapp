@@ -1,0 +1,224 @@
+.p_search_right{
+    float: right;
+    margin-right: 0.2rem;
+}
+.p_b_bottom{
+    position: absolute;
+    top: 1.17rem;
+    left: 0;
+    height: 3.91rem;
+    width: 100%;
+    background: #202020;
+}
+.p_search{
+    background: #202020;
+    height: 0.53rem;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.p_top_bottom{
+    width: 100%;
+    height: 1.17rem;
+    background: #202020;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+.p_s_icon{
+    margin-right: 0.4rem;
+}
+.p_b_bottom1{
+    width: 100%;
+    height: 2.08rem;
+    background: #202020;
+    padding: 0.52rem 0;
+    padding-left: 0.3rem;
+}
+.p_head_img{
+    width: 1rem;
+    height: 1rem;
+    border: 0.04rem solid #fbfbfb ;
+    border-radius: 50%;
+    float: left;
+    overflow: hidden;
+}
+.p_user_name{
+    height: 1rem;
+    width: auto;
+    min-width: 4rem;
+    float: left;
+    margin-left: 0.2rem;
+    line-height: 0.5rem;
+}
+.p_user_name1{
+    font-size: 0.26rem;
+    line-height: 0.5rem;
+    color: #fff;
+    float: left;
+}
+.p_user_name1_sign{
+    font-size: 0.24rem;
+    line-height: 0.5rem;
+    color: #fff;
+    float: left;
+}
+.user_grade{
+    width: 0.56rem;
+    height: 0.3rem;
+    border-radius: 0.3rem;
+    background: #b2b4b7;
+    color: #606163;
+    line-height: 0.3rem;
+    text-align: center;
+    float: left;
+    margin-top: 0.15rem;
+    margin-left: 0.2rem;
+    font-size: 0.16rem;
+}
+.p_sign_logo{
+    width: 0.3rem;
+    height: 0.3rem;
+    background: #fff;
+    line-height: 0.3rem;
+    font-size:0.2rem ;
+    border-radius: 50%;
+    display: block;
+    float: left;
+    margin-top: 0.13rem;
+    margin-left: 0.13rem;
+}
+.p_sign_logo_icon{
+    margin-left: 0.04rem;
+    margin-top: 0.04rem;
+    color:#2a2a2a;
+    line-height: 0.3rem;
+    font-size: 0.16rem;
+    text-align: center;
+}
+.p_user_name img{
+    width: 0.94rem;
+    height: 0.26rem;
+    margin-left: 0.1rem;
+    margin-top: 0.15rem;
+    float: left;
+}
+.user_grade_type{
+    width: 100%;
+    height: 0.59rem;
+}
+.grow{
+    width: 100%;
+    height: 1.04rem;
+    padding: 0.28rem 0;
+}
+.grow_k{
+    width: 2.8rem;
+    border: 0.02rem solid #555;
+    height: 0.48rem;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 0.14rem;
+    line-height: 0.48rem;
+    border-radius: 0.48rem;
+}
+.grow_word{
+    float: left;
+    color: #fff ;
+    font-size: 0.2rem;
+    line-height: 0.48rem;
+
+}
+.grow_word1{
+    margin-left: 0.18rem;
+    color: #848484;
+    font-size: 0.2rem;
+    line-height: 0.48rem;
+
+}
+.grow_icon{
+    margin-left: 0.1rem;
+    font-size: 0.2rem;
+    line-height: 0.48rem;
+    color: #848484;
+}
+.p_order{
+    width: 100%;
+    height: 2.32rem;
+}
+.p_content{
+    width: 100%;
+    height: auto;
+    min-height: 2.32rem;
+    margin-top: 5.08rem;
+}
+.p_order1{
+    height: 0.88rem;
+    width: 100%;
+    border-bottom: 0.02rem solid #f0f0f0;
+    background: #fff;
+    padding: 0 0.31rem;
+    line-height: 0.88rem;
+}
+.p_order1_word1{
+    float: left;
+    font-size: 0.28rem;
+    font-weight: bold;
+    color: #444;
+}
+.p_order1_word2{
+    float: right;
+    font-size: 0.28rem;
+    color: #444;
+
+}
+.p_order_icon{
+    color: #e0e0e0;
+}
+.p_order2{
+    height: 1.44rem;
+    width: 100%;
+}
+.p_order2 img{
+    float: left;
+    width: 1.5rem;
+    height: 1.44rem;
+}
+.tuijian{
+    width: 100%;
+    height: 1.8rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+}
+.p_card{
+    width: 100%;
+    height: 1.42rem;
+    border-bottom: 0.02rem solid #f0f0f0;
+}
+.p_card img{
+    width: 1.87rem;
+    height: 1.42rem;
+    float: left;
+}
+.p_card .p_card_img1{
+    width: 1.88rem;
+}
+.zhanwei{
+    width: 100%;
+    height: 0.7rem;
+}
+.p_user_msg{
+    float: left;
+    position: absolute;
+    left: 0.4rem;
+    bottom: 0.2rem;
+}
+.p_user_msg_menu{
+    width: 0.4rem;
+    height: 0.4rem;
+    border-radius: 50%;
+    border: 0.02rem solid #fff;
+    background: #e0e0e0;
+    overflow: hidden;
+}
